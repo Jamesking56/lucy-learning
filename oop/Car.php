@@ -1,6 +1,5 @@
 <?php
 
-
 class Car extends Vehicles {
     public function setOwner($owner){
       
