@@ -19,7 +19,7 @@ abstract class Vehicles {
     
     public abstract function wheels();
 }
-
+ 
 $car = new car('Lucy');
 echo $car->getOwner();
 $bike = new bike('James');
