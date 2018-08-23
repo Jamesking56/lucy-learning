@@ -1,0 +1,19 @@
+{
+    "name": "jamesking56/lucy-learning",
+    "type": "project",
+    "authors": [
+        {
+            "name": "James King",
+            "email": "james@momentum.studio"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "nesbot/carbon": "^1.33"
+    },
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    }
+}
